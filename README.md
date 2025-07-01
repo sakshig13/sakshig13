@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/1f/41/9e/1f419e11c7ae3241f915625b4e8f03a1.gif" width="200"/>
+  <img src="https://i.pinimg.com/originals/c8/b2/e0/c8b2e0b466dabc9d18a152751abc5744.gif" width="200"/>
 </p>
 
 <h2 align="center">👩‍💻 Hey there, I'm Sakshi Gupta!</h2>
