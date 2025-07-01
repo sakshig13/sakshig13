@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/c8/b2/e0/c8b2e0b466dabc9d18a152751abc5744.gif" width="200"/>
-</p>
+<img src="https://i.pinimg.com/originals/c8/b2/e0/c8b2e0b466dabc9d18a152751abc5744.gif"/>
 
 <h2 align="center">👩‍💻 Hey there, I'm Sakshi Gupta!</h2>
 
